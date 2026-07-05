@@ -1,39 +1,39 @@
-# 🤝 Team Frontend Project
+# 🤝 Team Frontend Project (Draft)
 
-A collaborative frontend project built by an international team of 4 developers using **HTML, CSS, and JavaScript**.
+## 🧠 Project Idea
 
-This project focuses on real-world teamwork, Git collaboration, and building clean, responsive frontend applications without frameworks.
-
----
-
-## 📝 Description
-
-This project is a hands-on frontend development experience where a team of 4 developers work together to build a small web application using only vanilla technologies.
-
-The main focus is not complexity, but:
-- Writing clean and maintainable code
-- Practicing real team workflows (Git, branches, collaboration)
-- Improving UI/UX design skills
-- Learning how to split work in a real development environment
-- Simulating a real-world software team structure
+A simple web application built by a team of 4 developers using HTML, CSS, and JavaScript.  
+The project focuses on teamwork, Git workflow, and building a clean and interactive user experience.
 
 ---
 
 ## 🎯 Goal
 
 The goal of this project is to:
-- Build a functional frontend application as a team
-- Practice Git and GitHub collaboration professionally
-- Improve HTML, CSS, and JavaScript skills
-- Learn how to work in parallel development streams
-- Deliver a clean, responsive, and well-structured UI
+- Practice real-world team collaboration
+- Improve frontend development skills (HTML, CSS, JavaScript)
+- Learn Git and GitHub workflow (branches, commits, merges)
+- Build a responsive and clean UI
+- Simulate real software development teamwork
+
+---
+
+## ♻️ App Concept (MVP Idea)
+
+We are building a **Food Waste Tracker (MVP)**.
+
+A simple web app that allows users to:
+- Add food items
+- Track expiration dates
+- View and manage their food inventory
+- Help reduce food waste in a simple and visual way
 
 ---
 
 ## ⚙️ Tech Stack
 
 - HTML5
-- CSS3 (Flexbox / Grid)
+- CSS3
 - JavaScript (Vanilla JS)
 - Git & GitHub
 
@@ -42,132 +42,69 @@ The goal of this project is to:
 ## 🚫 Constraints
 
 - No frameworks (React, Vue, etc.)
-- No backend complexity
-- No external libraries (unless agreed by the team)
-- Focus on simplicity, clarity, and teamwork
-- Small, incremental features only
+- No backend complexity (for now)
+- Focus on simplicity and clean code
+- Small features only (MVP first)
 
 ---
 
-## 👥 Team Roles
+## 👥 Team Structure
 
-### 👩‍💻 Developer 1 (UI / Frontend Lead)
+### 👩‍💻 Developer 1 (UI Lead)
 - HTML structure
-- UI layout design
-- Responsive design (mobile + desktop)
-- Design consistency
+- Layout design
+- Responsive design
+- UI consistency
 
----
-
-### 👨‍💻 Developer 2 (JavaScript Logic)
-- Core application logic
-- DOM manipulation
-- Event handling
-- Input validation
-
----
+### 👨‍💻 Developer 2 (Logic Developer)
+- JavaScript functionality
+- Data handling
+- Event management
 
 ### 👨‍💻 Developer 3 (Integration & QA)
 - Connect UI with logic
 - Bug fixing
 - Testing features
-- Ensure smooth user experience
 
----
-
-### 👨‍💻 Developer 4 (Support / Features & Git Manager)
-- Assist with features
-- Handle Git branches & merges
+### 👨‍💻 Developer 4 (Git & Support)
+- Git branches management
+- Merge requests
 - Code review support
-- Help resolve conflicts
-- Support debugging and improvements
+- Debugging assistance
 
 ---
 
-## 🧩 Task Board
+## 🧩 MVP Features (First Version)
 
-### 🟢 Setup Phase
-- [ ] Create repository
-- [ ] Setup project structure
-- [ ] Create base HTML file
-- [ ] Define main sections of the UI
-
----
-
-### 🔵 Development Phase
-- [ ] Implement core features
-- [ ] Add interactivity (JS events)
-- [ ] Handle user inputs
-- [ ] Build main functionality
-
----
-
-### 🟣 Styling Phase
-- [ ] Responsive design (mobile + desktop)
-- [ ] UI improvements
-- [ ] Typography and spacing
-- [ ] Color consistency
-
----
-
-### 🟠 Testing Phase
-- [ ] Bug fixing
-- [ ] UX improvements
-- [ ] Cross-browser testing
-- [ ] Code review
-
----
-
-### 🔴 Final Phase
-- [ ] Final polish
-- [ ] Documentation update
-- [ ] Prepare presentation/demo
-- [ ] Final deployment (if needed)
+- [ ] Add food items
+- [ ] Display food list
+- [ ] Show expiration date
+- [ ] Delete items
+- [ ] Basic UI styling
 
 ---
 
 ## 🌿 Git Workflow
 
-- `main` → stable production code
-- `dev` → integration branch
-- `feature/*` → individual features
-
-### Example branches:
-- `feature/navbar`
-- `feature/game-logic`
-- `feature/ui-styling`
-- `feature/integration`
+- `main` → stable version
+- `dev` → development branch
+- `feature/*` → each feature separately
 
 ---
 
-## 💬 Commit Guidelines
+## 💬 Commit Rules
 
-- `add: initial project setup`
-- `feat: implement main feature`
-- `fix: resolve bug in logic`
-- `style: improve responsive layout`
-
----
-
-## ✅ Definition of Done
-
-A task is complete only if:
-
-- Code works correctly
-- No console errors
-- Responsive on all devices
-- Clean and readable code
-- Tested by at least one teammate
-- Proper commit message is added
+- `add: initial setup`
+- `feat: add food input form`
+- `fix: resolve delete bug`
+- `style: improve UI layout`
 
 ---
 
 ## 🚀 Outcome
 
-By the end of this project, the team will have:
-
-- A complete working frontend application
-- Real Git collaboration experience
-- A portfolio-ready project
-- Experience working in a distributed team
-- Improved communication and development workflow
+At the end of this project:
+- We will have a working frontend application
+- Real teamwork experience
+- A portfolio project ready for GitHub
+- Better understanding of Git workflow and collaboration
