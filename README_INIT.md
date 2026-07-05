@@ -108,3 +108,16 @@ At the end of this project:
 - Real teamwork experience
 - A portfolio project ready for GitHub
 - Better understanding of Git workflow and collaboration
+
+
+## 🚀 Future Improvements (Roadmap)
+
+The current version focuses on a simple and stable MVP.
+
+In future iterations, we plan to enhance the project with:
+
+- 📸 Image-based product recognition (AI feature)
+- 📊 Barcode scanning for automatic product entry
+- 🍽️ Smart recipe suggestions based on available ingredients
+- 🔔 Smart notifications for expiring items
+- 📱 Mobile-first optimized experience
